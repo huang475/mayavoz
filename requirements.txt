@@ -5,6 +5,7 @@ joblib>=1.2.0
 librosa>=0.9.2
 mlflow>=1.28.0
 numpy>=1.23.3
+git+https://github.com/ludlows/PESQ.git
 pesq==0.0.4
 protobuf>=3.19.6
 pystoi==0.3.3
